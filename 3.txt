@@ -1,4 +1,0 @@
-class student(models.Model):
-      stuid = models.IntegerField()
-      studname = models.CharField()
-      studentMarks= models.DecimalField(max_digits=8,decimal_places=2)
