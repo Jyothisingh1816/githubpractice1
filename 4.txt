@@ -1,0 +1,4 @@
+Class product(models.Model):
+      productId=models.IntegerField()
+      productname=models.CharField(max_length=40)
+      productprice=models.IntegerField()
