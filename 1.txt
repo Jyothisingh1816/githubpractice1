@@ -2,3 +2,7 @@ class Employee(models.Model):
             eid = models.IntegerField()
             ename= models.CharField(max_length=40)
             esal= models.integerField()
+class test{
+       public static void main(string args[])
+       system.out.print("square of two number")
+}
