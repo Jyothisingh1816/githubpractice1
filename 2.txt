@@ -1,7 +1,0 @@
-class register{
-        string userid;
-        string username;
-        string password;
-        string emailId;
-}        
-    
