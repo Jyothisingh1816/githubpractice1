@@ -9,5 +9,5 @@ story -121
 class login{
         string username;
         string password;
-
+>>>>>>> Stashed changes
 }
